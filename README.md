@@ -5,7 +5,7 @@ This prototype extracts key information (Name, Document Number, Expiration Date)
 ## Features
 - **OCR Extraction**: Uses OCR to read document data.
 - **Data Validation**: Ensures accuracy of extracted data.
-
+  
 ## Tech Stack
 - **Backend**: Node.js, Express.js, OCR (e.g., Tesseract.js)
 - **Frontend**: React.js
