@@ -39,6 +39,5 @@ This prototype extracts key information (Name, Document Number, Expiration Date)
 Upload a document image (passport or driver’s license) via the UI. Extracted details will display on the page.
 ## Screenshot 
 <image src="Screenshot 2024-11-01 145048.png" alt="different">
-<image src="Screenshot 2024-11-01 145156.png" alt="lrt">
 ---
 
